@@ -1,0 +1,169 @@
+[
+    {
+        "id": 541,
+        "name": "Clube Livelo",
+        "type": "club",
+        "productId": "LIVPRODClub",
+        "enabled": true,
+        "description": "Clube Livelo",
+        "regulation": "Regulamento clube livelo",
+        "termsAndConditions": "Termos e condiçoes",
+        "required": [],
+        "additionals": [
+            {
+                "id": 23,
+                "planId": 581,
+                "name": "Novos Pontos Não Expiram",
+                "termsAndConditions": "<p>Já pensou não ter que se preocupar em quando seus pontos expiram?</p>&nbsp;<p></p> Com esse adicional, os seus <b>novos pontos</b>  acumulados, assim como do Clube Livelo, também não expiram! Agora você tem todo tempo para juntar pontos comprando em nossos parceiros, usando o cartão de crédito ou recebendo prêmio da sua empresa para trocar quando e pelo o que mais deseja. <p></p>&nbsp; <p></p><b>Fique atento:</b><p></p><p>- Essa conveniência só será ativada no próximo pagamento do seu Clube Livelo; </p><p>- Somente após a confirmação do pagamento seus novos pontos acumulados terão a data de expiração suspensa;</p><p>- A suspensão da expiração dos pontos não é válida para os acúmulos realizados antes da adesão; </p><p>- Os pagamentos acontecerão junto com o seu Clube Livelo; </p><p>- Em caso de cancelamento dessa conveniência os pontos voltam a expirar.</p><p>&nbsp;</p><p>Para demais condições consulte o <a href=\"https://static.pontoslivelo.com.br/content/img/Canais/20180901/Regulamento_Novos_Pontos_Nao_Expiram.pdf\" target=\"_blank\" style=\"text-decoration: underline\"><strong>regulamento</strong></a> completo </p><p></p><p class=\"description\">&nbsp;</p>",
+                "required": [
+                    {
+                        "id": 61,
+                        "planId": 541,
+                        "name": "Clube Livelo",
+                        "variations": [
+                            321,
+                            341,
+                            342,
+                            343
+                        ]
+                    }
+                ],
+                "productId": "LIVPRODNPNE",
+                "variations": [
+                    {
+                        "id": 381,
+                        "skuId": "LIVSKUNPNE",
+                        "name": "Novos Pontos Não Expiram",
+                        "priority": 0,
+                        "gracePeriod": 0,
+                        "enabled": true,
+                        "listPrice": 10.9,
+                        "salePrice": 9.9,
+                        "largeImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                        "mediumImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                        "smallImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                        "thumbnailImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                        "additionalProperties": {}
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "planId": 746,
+                "name": "Novos Pontos Não Expiram",
+                "termsAndConditions": "<p>Já pensou não ter que se preocupar em quando seus pontos expiram?</p> <p></p> Com esse adicional, os seus <b>novos pontos</b>  acumulados, assim como do Clube Livelo, também não                         expiram! Agora você tem todo tempo para juntar pontos comprando em nossos parceiros, usando o cartão de crédito ou recebendo prêmio da sua empresa para trocar quando e pelo o que mais deseja. <p></p>  <p></p> <b>Fique atento:</b><p></p><p>- Essa conveniência só será ativada no próximo pagamento do seu Clube Livelo; </p><p>- Somente após a confirmação do pagamento seus novos pontos acumulados terão a data de expiração suspensa;</p><p>- A suspensão da expiração dos pontos não é válida para os acúmulos realizados antes da adesão; </p><p>- Os pagamentos acontecerão junto com o seu Clube Livelo; </p><p>- Em caso de cancelamento dessa conveniência os pontos voltam a expirar.</p><p> </p><p>Para demais condições consulte o <a href=\"https://static.pontoslivelo.com.br/content/img/Canais/20180901/Regulamento_Novos_Pontos_Nao_Expiram.pdf\" target=\"_blank\" style=\"text-decoration: underline\"><strong>regulamento</strong></a> completo </p><p></p><p class=\"description\"> </p>",
+                "required": [],
+                "productId": "LIVPRODNPNEAut",
+                "variations": [
+                    {
+                        "id": 434,
+                        "skuId": "LIVSKUNPNEAut",
+                        "name": "Novos Pontos Não Expiram",
+                        "priority": 1,
+                        "gracePeriod": 90,
+                        "enabled": true,
+                        "listPrice": 11.9,
+                        "salePrice": 9.9,
+                        "largeImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                        "mediumImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                        "smallImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                        "thumbnailImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                        "additionalProperties": {}
+                    }
+                ]
+            }
+        ],
+        "variations": [
+            {
+                "id": 344,
+                "skuId": "LIVSKUClub500",
+                "name": "Clube 500",
+                "priority": 1,
+                "gracePeriod": 90,
+                "enabled": true,
+                "listPrice": 10.9,
+                "salePrice": 5.9,
+                "largeImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "mediumImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "smallImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "thumbnailImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "additionalProperties": {
+                    "yearlyPoints": "6000",
+                    "points": "500"
+                }
+            },
+            {
+                "id": 321,
+                "skuId": "LIVSKUClub1200",
+                "name": "Clube 1200",
+                "priority": 2,
+                "gracePeriod": 90,
+                "enabled": true,
+                "listPrice": 30.9,
+                "salePrice": 20.9,
+                "largeImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "mediumImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "smallImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "thumbnailImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "additionalProperties": {
+                    "yearlyPoints": "14400",
+                    "points": "1200"
+                }
+            },
+            {
+                "id": 341,
+                "skuId": "LIVSKUClub3000",
+                "name": "Clube 3000",
+                "priority": 3,
+                "gracePeriod": 90,
+                "enabled": true,
+                "listPrice": 49.9,
+                "salePrice": 39.9,
+                "largeImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "mediumImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "smallImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "thumbnailImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "additionalProperties": {
+                    "yearlyPoints": "36000",
+                    "points": "3000"
+                }
+            },
+            {
+                "id": 343,
+                "skuId": "LIVSKUClub20000",
+                "name": "Clube 20000",
+                "priority": 4,
+                "gracePeriod": 90,
+                "enabled": true,
+                "listPrice": 109.9,
+                "salePrice": 99.9,
+                "largeImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "mediumImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "smallImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "thumbnailImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "additionalProperties": {
+                    "yearlyPoints": "240000",
+                    "points": "20000"
+                }
+            },
+            {
+                "id": 342,
+                "skuId": "LIVSKUClub7000",
+                "name": "Clube 7000",
+                "priority": 4,
+                "gracePeriod": 90,
+                "enabled": true,
+                "listPrice": 69.9,
+                "salePrice": 59.9,
+                "largeImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "mediumImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "smallImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "thumbnailImageUrl": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Icone-Ajustado.jpg",
+                "additionalProperties": {
+                    "yearlyPoints": "84000",
+                    "points": "7000"
+                }
+            }
+        ]
+    }
+]
